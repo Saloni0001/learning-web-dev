@@ -1,1 +1,2 @@
 revising git a lil bit enjoy :-)
+installed django now learn learn
